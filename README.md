@@ -5,3 +5,5 @@ for the file to open as you open a new-tab you whould need to install new-tab re
 and after that click extentions --> new-tab redirect --> options and you should be presented with a screen 
 where it says redirect url put the file path(you new-tab page) there. thanks to https://github.com/Axarva for the base of index.html
 index2.html.
+
+Edit: forgot who make index3.html but thx
